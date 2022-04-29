@@ -5,6 +5,7 @@ This project is a Unity Example Game from the book [Introduction to Game Design,
 It is a shoot 'em up prototype, inspired by games such as [Ikaruga](https://en.wikipedia.org/wiki/Ikaruga), [Galaga](https://en.wikipedia.org/wiki/Galaga), 
 [Galaxian](https://en.wikipedia.org/wiki/Galaxian), and so on. 
 
+You can play it [here!](https://shaman37.itch.io/prototype-space-shmup)
 ## How to play
 
 Use the _arrow keys/WASD_ to move the ship around and press/hold the _Space Key_ to fire your weapons.
